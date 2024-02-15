@@ -1,0 +1,9 @@
+.animation__button {
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  border: none;
+  background-color: gray;
+  border-radius: 15px;
+  color: #fff;
+}
